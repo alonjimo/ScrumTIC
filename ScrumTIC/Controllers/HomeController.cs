@@ -10,7 +10,7 @@ namespace ScrumTIC.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Message = "Hola :) Cambios en Github";
+            ViewBag.Message = "Hola :) Cambios en Github #2";
 
             return View();
         }
